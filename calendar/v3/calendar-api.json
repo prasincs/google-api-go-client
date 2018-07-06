@@ -2428,8 +2428,9 @@
               "type": "array"
             },
             "useDefault": {
-              "description": "Whether the default reminders of the calendar apply to the event.",
-              "type": "boolean"
+                "description": "Whether the default reminders of the calendar apply to the event.",
+                "type": "boolean"
+                "required": true
             }
           },
           "type": "object"
